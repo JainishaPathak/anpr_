@@ -1,16 +1,22 @@
 ANPR Tracking Log
 ======================================================================
-Source: input_video_test.mp4
-Date: 2025-10-01 12:06:21.226836
+Source: Webcam
+Date: 2025-10-01 14:34:21.903566
 
-[   8.27s] Track 14: KA02NN1828
-[  19.27s] Track 38: KA02MM9091
-[  19.87s] Track 39: KA02MM9091
+[0.53s] Plate: RJ14CV0002
+[7.00s] Plate: UP53OV9006
+[16.20s] Plate: HR26OO5551
+[30.47s] Plate: UP14BN4001
+[38.07s] Plate: MH12DE1433
+[47.47s] Plate: HR67A9100
 
 ======================================================================
-Total detections: 3
+Total detections: 6
 
 Detected plates:
-  Track 14: KA02NN1828
-  Track 38: KA02MM9091
-  Track 39: KA02MM9091
+  RJ14CV0002
+  UP53OV9006
+  HR26OO5551
+  UP14BN4001
+  MH12DE1433
+  HR67A9100
