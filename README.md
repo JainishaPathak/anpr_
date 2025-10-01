@@ -48,7 +48,7 @@ pip install -r requirements.txt
 **Process a video file**
 
 ```bash
-python main.py --video videos/input_video.mp4
+python main.py --video videos/input_video_3.mp4
 ```
 
 **Use webcam**
