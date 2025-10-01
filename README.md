@@ -73,7 +73,7 @@ python anpr_final_improved.py --video webcam
 
 <p align="center">
   <img src="webcam_results/img5.png" width="400" />
-  <img src="webcam_results/img6.png" width="400" />
+ 
 </p>
 
 <p align="center">
