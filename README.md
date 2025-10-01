@@ -48,13 +48,13 @@ pip install -r requirements.txt
 **Process a video file**
 
 ```bash
-python anpr_final_improved.py --video videos/input_video.mp4
+python main.py --video videos/input_video.mp4
 ```
 
 **Use webcam**
 
 ```bash
-python anpr_final_improved.py --video webcam
+python main.py --video webcam
 ```
 
 ## Demo Results
