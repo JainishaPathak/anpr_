@@ -41,6 +41,10 @@ pip install -r requirements.txt
 * Test video: [Download here](https://drive.google.com/file/d/1RPky7aKlF7lHwx7NkwSdsb0J8X07tT-r/view?usp=sharing)
 * Place the video in `videos/` folder
 
+* Create a folder weights
+* Download weights : https://drive.google.com/file/d/1hGemzNb0SQe4AXl72GFO0w4fbeGDJoIq/view?usp=sharing
+* Place the .pt file in `weights/` folder
+
 ---
 
 ## Usage
