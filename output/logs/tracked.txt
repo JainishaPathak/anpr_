@@ -1,0 +1,16 @@
+ANPR Tracking Log
+======================================================================
+Source: input_video_test.mp4
+Date: 2025-10-01 12:06:21.226836
+
+[   8.27s] Track 14: KA02NN1828
+[  19.27s] Track 38: KA02MM9091
+[  19.87s] Track 39: KA02MM9091
+
+======================================================================
+Total detections: 3
+
+Detected plates:
+  Track 14: KA02NN1828
+  Track 38: KA02MM9091
+  Track 39: KA02MM9091

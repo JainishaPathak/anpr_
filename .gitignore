@@ -14,9 +14,7 @@ videos/*.avi
 videos/*.mov
 
 # Output
-output/
-*.log
-*.txt
+
 
 # System Files
 .DS_Store
