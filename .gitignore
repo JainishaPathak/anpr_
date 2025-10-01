@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Model Weight
+weights/*.pt
+*.pt
+
+# Videos
+videos/*.mp4
+videos/*.avi
+videos/*.mov
+
+# Output
+output/
+*.log
+*.txt
+
+# System Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary
+*.tmp
+*.bak
