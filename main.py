@@ -314,10 +314,10 @@ class ImprovedANPR:
                                                 cv2.imwrite(crop_path, plate_img)
                                                 
                                                 if not self.vehicle_tracks[track_id]['logged']:
-                                                    entry = f"[{timestamp:7.2f}s] Track {track_id}: {most_common}\n"
+                                                    entry = f"[{timestamp:.2f}s] Plate: {most_common}\n"
                                                     log.write(entry)
                                                     log.flush()
-                                                    print(f"[{timestamp:7.2f}s] Track {track_id}: {most_common}")
+                                                    print(f"[{timestamp:.2f}s] Plate: {most_common}")
                                                     self.vehicle_tracks[track_id]['logged'] = True
                 
                 for track_id, data in list(self.vehicle_tracks.items()):
@@ -377,7 +377,7 @@ class ImprovedANPR:
         
         log.write(f"Detected plates:\n")
         for tid, plate in sorted(self.confirmed_plates.items()):
-            log.write(f"  Track {tid}: {plate}\n")
+            log.write(f"  {plate}\n")
         log.close()
         
         print(f"\n{'='*70}")
