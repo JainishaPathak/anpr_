@@ -77,11 +77,13 @@ python main.py --video webcam
 
 <p align="center">
   <img src="webcam_results/img5.png" width="400" />
+  <img src="webcam_results/img7.png" width="400" />
  
 </p>
 
 <p align="center">
-  <img src="webcam_results/img7.png" width="400" />
+  <img src="webcam_results/img8.png" width="400" />
+  
 </p>
 
 ---
